@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pjcollum/react_hooks/static/css/main.02b683f2.chunk.css",
+    "main.js": "/pjcollum/react_hooks/static/js/main.a7177ef7.chunk.js",
+    "main.js.map": "/pjcollum/react_hooks/static/js/main.a7177ef7.chunk.js.map",
+    "runtime-main.js": "/pjcollum/react_hooks/static/js/runtime-main.69f0cf2e.js",
+    "runtime-main.js.map": "/pjcollum/react_hooks/static/js/runtime-main.69f0cf2e.js.map",
+    "static/js/2.48317b46.chunk.js": "/pjcollum/react_hooks/static/js/2.48317b46.chunk.js",
+    "static/js/2.48317b46.chunk.js.map": "/pjcollum/react_hooks/static/js/2.48317b46.chunk.js.map",
+    "index.html": "/pjcollum/react_hooks/index.html",
+    "precache-manifest.6b629d368ca0344e7689f3516017eecf.js": "/pjcollum/react_hooks/precache-manifest.6b629d368ca0344e7689f3516017eecf.js",
+    "service-worker.js": "/pjcollum/react_hooks/service-worker.js",
+    "static/css/main.02b683f2.chunk.css.map": "/pjcollum/react_hooks/static/css/main.02b683f2.chunk.css.map",
+    "static/js/2.48317b46.chunk.js.LICENSE.txt": "/pjcollum/react_hooks/static/js/2.48317b46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f0cf2e.js",
+    "static/js/2.48317b46.chunk.js",
+    "static/css/main.02b683f2.chunk.css",
+    "static/js/main.a7177ef7.chunk.js"
+  ]
+}
